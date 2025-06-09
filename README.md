@@ -50,13 +50,4 @@ An automated and hygienic trash disposal system built using **Arduino Uno**, **I
 
 ---
 
-## 🧠 Contributors
-- Bindu Devidas  
-- Teresa Varghese  
-- Kashish Varma  
-- Nivedan B R  
-- Anagha Nagesh
-
----
-
 ## 📷 Screenshots & Circuit
