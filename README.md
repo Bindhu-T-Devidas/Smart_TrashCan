@@ -50,6 +50,6 @@ An automated and hygienic trash disposal system built using **Arduino Uno**, **I
 
 ---
 
-## 📷 Screenshots & Circuit
+## 📷 Circuit
 ![System Architecture](Diagram.png)
 
